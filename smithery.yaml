@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-diffie-hellman-key-exchange-rfc3526-skill
+service:
+  name: genpark-diffie-hellman-key-exchange-rfc3526-skill
+  command: python
+  args:
+    - mcp_server.py
