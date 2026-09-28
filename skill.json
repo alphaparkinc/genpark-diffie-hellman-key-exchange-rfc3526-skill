@@ -1,0 +1,9 @@
+{
+  "name": "genpark-diffie-hellman-key-exchange-rfc3526-skill",
+  "version": "1.0.0",
+  "description": "Diffie-Hellman key agreement with RFC 3526 2048-bit MODP groups and HKDF derivation",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
